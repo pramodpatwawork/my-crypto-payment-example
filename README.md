@@ -1,6 +1,12 @@
 # my-crypto-payment-example
 
 * Main project is algorandStarterdemo
+* Create account at https://developer.purestake.io/ that will give you API key.
+* Change API key in AlgorandController.java file at
+
+```
+ String[] values = {"Your API Key that you will get after creating account on https://developer.purestake.io/"};
+```
 
 * Command to install depedency on local repo for project algorandStarterdemo is
 
